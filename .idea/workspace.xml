@@ -1,15 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e1f4563-ad1e-48c0-9c12-f19658da1b72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depot/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depot/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depot/.idea/depot.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depot/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depot/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depot/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/depot/.idea/workspace.xml" />
+    <list default="true" id="4dfb3d64-b6aa-4b5b-a355-b500a8e85130" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/.idea/.generators" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/.idea/.rakeTasks" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/.idea/depot.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/Capfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/config/manifest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/images/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/images/7apps.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/images/adrpo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/images/dcbang.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/images/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/images/rails.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/admin.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/cable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/carts.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/channels/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/channels/products.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/form.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/line_items.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/orders.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/products.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/sessions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/store.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/javascripts/users.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/admin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/application.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/carts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/form.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/line_items.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/orders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/products.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/scaffolds.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/sessions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/store.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/assets/stylesheets/users.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/channels/application_cable/channel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/channels/application_cable/connection.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/channels/products_channel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/admin_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/carts_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/concerns/current_cart.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/form_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/line_items_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/orders_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/products_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/sessions_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/store_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/controllers/users_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/admin_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/carts_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/form_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/line_items_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/orders_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/products_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/sessions_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/store_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/helpers/users_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/jobs/application_job.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/mailers/application_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/mailers/order_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/models/application_record.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/models/cart.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/models/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/models/line_item.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/models/model.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/models/order.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/models/product.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/models/user.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/admin/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/carts/_cart.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/carts/_cart.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/carts/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/carts/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/carts/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/carts/index.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/carts/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/carts/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/carts/show.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/form/input.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/layouts/application.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/layouts/mailer.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/layouts/mailer.text.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/_line_item.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/_line_item.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/_line_item.text.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/create.js.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/index.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/line_items/show.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/order_mailer/received.text.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/order_mailer/shipped.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/orders/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/orders/_order.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/orders/_order.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/orders/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/orders/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/orders/index.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/orders/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/orders/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/orders/show.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/_product.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/index.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/index.xml.builder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/show.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/who_bought.atom.builder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/who_bought.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/products/who_bought.xml.builder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/sessions/create.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/sessions/destroy.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/sessions/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/store/index.html.haml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/users/_form.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/users/_user.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/users/edit.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/users/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/users/index.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/users/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/users/show.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/app/views/users/show.json.jbuilder" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/bin/bundle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/bin/rails" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/bin/rake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/bin/setup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/bin/update" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/application.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/boot.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/cable.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/database.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/deploy.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/deploy/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/environment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/environments/development.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/environments/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/environments/test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/application_controller_renderer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/assets.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/cookies_serializer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/filter_parameter_logging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/i18n.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/inflections.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/mime_types.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/new_framework_defaults.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/session_store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/locales/es.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/puma.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/routes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/config/secrets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/backup/production.backup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170305224644_create_products.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170306011411_create_carts.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170306011939_create_line_items.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170306014434_add_quantity_to_line_items.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170306014645_combine_items_in_cart.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170306022638_add_price_to_line_item.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170308202936_create_orders.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170308203005_add_order_id_to_line_item.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170309013052_create_users.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/migrate/20170311184333_create_models.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/production.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/schema.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/db/seeds.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/lib/assets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/lib/capistrano/tasks/deploy-seed.rake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/lib/tasks/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/lib/tasks/db_backup.rake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/lib/tasks/db_schema_migrations.rake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/log/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/422.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/500.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/.sprockets-manifest-3fcfd82814b7fec01d6bf3f3547412c8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/7apps-f67c3d908f537bac34a290206cc1db4c6f4611196c550e49ba836b796a2602bb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/adrpo-23a974519e0d4353c6906f82b40bd4cd98b09a2ce748825370c7aa59763f5ac7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/application-4e9b41d401a9a698e6446409d3c3ffa5355aac9abe7458cb4f0ee3e1dfed03fd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/application-4e9b41d401a9a698e6446409d3c3ffa5355aac9abe7458cb4f0ee3e1dfed03fd.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/application-bf27c6782930909c43e918a43c3c81ad182574e58babca131ef7eb9a34e468f6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/application-bf27c6782930909c43e918a43c3c81ad182574e58babca131ef7eb9a34e468f6.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/dcbang-28758120ca6616f3f95a4b73dda112a1f8e6ac3175e35b67e78d0ab0bd177566.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/logo-a8906fb6c933f00883d2ad0385ae52201c0e1d1f9235c37f4a5762f02ad80936.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/logo-a8906fb6c933f00883d2ad0385ae52201c0e1d1f9235c37f4a5762f02ad80936.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/assets/rails-5ad6d454af23f597c4c39dbe4ec6e12784f8e382997a4bc04944ab8547d48881.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/require" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/script/creditcard.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/script/load_orders.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/select" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/store.ru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/admin_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/carts_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/form_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/line_items_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/orders_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/products_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/sessions_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/store_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/controllers/users_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/fixtures/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/fixtures/carts.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/fixtures/files/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/fixtures/line_items.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/fixtures/models.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/fixtures/orders.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/fixtures/products.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/fixtures/users.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/helpers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/integration/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/integration/dsl_user_stories_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/integration/user_stories_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/mailers/order_mailer_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/mailers/previews/order_mailer_preview.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/models/cart_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/models/line_item_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/models/model_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/models/order_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/models/product_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/models/user_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/test/test_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/tmp/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/vendor/assets/javascripts/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/depot/vendor/assets/stylesheets/.keep" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,20 +271,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="production.backup" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/depot/db/backup/production.backup">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,8 +302,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -77,107 +313,103 @@
               <option name="myItemId" value="Armando-Cervantes---Unidad-3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Armando-Cervantes---Unidad-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Armando-Cervantes---Unidad-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Armando-Cervantes---Unidad-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Armando-Cervantes---Unidad-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\NQ-TI005-L\RubymineProjects\Armando-Cervantes---Unidad-3" />
-    </key>
+  <component name="RunManager" selected="Rails.Development: depot">
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: depot" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: depot" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: depot" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: depot" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e1f4563-ad1e-48c0-9c12-f19658da1b72" name="Default" comment="" />
-      <created>1489259876066</created>
+      <changelist id="4dfb3d64-b6aa-4b5b-a355-b500a8e85130" name="Default" comment="" />
+      <created>1489259836864</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1489259876066</updated>
-      <workItem from="1489259878629" duration="399000" />
+      <updated>1489259836864</updated>
+      <workItem from="1489259839491" duration="37000" />
+      <workItem from="1489262494164" duration="27000" />
     </task>
-    <task id="LOCAL-00001" summary="Unidad 3">
-      <created>1489259958757</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1489259958757</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="399000" />
+    <option name="totallyTimeSpent" value="64000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49048316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -188,22 +420,8 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Unidad 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unidad 3" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/depot/db/backup/production.backup">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
